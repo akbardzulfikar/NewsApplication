@@ -1,0 +1,19 @@
+
+l
+<app/src/main/java/co/id/newsapplication/model/ApiResponse.kt,4/b/4bf54e43c151d5948a8bb9b559764b1bf949d800
+p
+@app/src/main/java/co/id/newsapplication/helper/AppGlideModule.kt,7/5/75f371d3019b330719cca5ed055dba04a02b1914
+p
+@app/src/main/java/co/id/newsapplication/activity/MainActivity.kt,7/0/70ee9c2b43e90aef023b1474f3bdc6603c9ffd55
+h
+8app/src/main/java/co/id/newsapplication/model/Article.kt,3/f/3f4ad53fd2dee911f67a98a29109af65aa264887
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+n
+>app/src/main/java/co/id/newsapplication/adapter/NewsAdapter.kt,a/9/a948969323a8c3f8001e7867329900f63747477e
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+l
+<app/src/main/java/co/id/newsapplication/helper/Extensions.kt,2/b/2bdfd4e7d6e56203d54fdc3669da31c938769118
+s
+Capp/src/main/java/co/id/newsapplication/activity/DetailsActivity.kt,a/6/a66a193d965d4608b3e7edbba80e6b12395c5145

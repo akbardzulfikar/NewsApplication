@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsApplication</string>
+    <string name="textTitleSize">30sp</string>
+    <string name="btn_source">Go to source</string>
+</resources>
